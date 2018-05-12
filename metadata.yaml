@@ -13,6 +13,8 @@ covers:
 creator:
   author: *id001
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/26798#The-Genus-Pinus
 gutenberg_bookshelf: Forestry
 gutenberg_issued: '2008-10-07'
 gutenberg_type: Text
